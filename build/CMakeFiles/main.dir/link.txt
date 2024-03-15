@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/src/main.cpp.o -o main   -L/home/mahesh/project/Milti_Language_Code/lib  -Wl,-rpath,/home/mahesh/project/Milti_Language_Code/lib -lhello 

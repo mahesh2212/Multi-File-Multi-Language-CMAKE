@@ -1,0 +1,4 @@
+/home/mahesh/project/Milti_Language_Code/build/CMakeFiles/go_build.dir
+/home/mahesh/project/Milti_Language_Code/build/CMakeFiles/main.dir
+/home/mahesh/project/Milti_Language_Code/build/CMakeFiles/edit_cache.dir
+/home/mahesh/project/Milti_Language_Code/build/CMakeFiles/rebuild_cache.dir
